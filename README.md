@@ -14,11 +14,9 @@
 
 ## 👩‍💻 About Me
 
-Hi, I'm Kanika — a Thai cybersecurity student wrapping up my B.Tech in Computer Science & Engineering (Cybersecurity) at the National Forensic Science University, India, graduating May 2026. I'm an ICCR Scholar.
+Hi, I'm Kanika — a Thai cybersecurity student wrapping up my B.Tech in Computer Science & Engineering (Cybersecurity) at the National Forensic Science University, India. I'm an ICCR Scholar.
 
-My work spans security monitoring, threat detection, incident response, and GRC. What I enjoy most is bridging the gap between raw technical findings and things people can actually act on — whether that's a well-tuned detection rule, a clear risk report, or a tool that makes security less intimidating for teams without a dedicated security person.
-
-Currently exploring: detection engineering · SIEM tuning · cloud security · compliance automation
+My work spans security monitoring, threat detection, incident response, and GRC. What I enjoy most is bridging the gap between raw technical findings and things people can actually act on whether that's a well-tuned detection rule, a clear risk report, or a tool that makes security less intimidating for teams without a dedicated security person.
 
 <br>
 
